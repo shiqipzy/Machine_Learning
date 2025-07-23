@@ -1,0 +1,19 @@
+# Datasets
+training/
+validation/
+evaluation/
+
+# Model and history files
+food_classifier_model.keras
+training_history.pkl
+
+# Zip files
+*.zip
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files
+venv/
+.env
