@@ -1,7 +1,7 @@
 # Datasets
-/evaluation
-/validation
-/training
+training/*
+validation/*
+evaluation/*
 
 # Model and history files
 food_classifier_model.keras
